@@ -25,19 +25,19 @@ store:
   traits:
     conflicts: true
     stats: true
-    karma: true
+    karma: false
     limit: true
     description: true
     usage: false
     mod: true
   kinds:
     mod: true
-    karma: true
+    karma: false
     usage: true
   items:
     category: true
     weight: true
-    karma: true
+    karma: false
     quantity: true
     mod: true
     usage: true
@@ -49,7 +49,7 @@ store:
     mod: true
     weight: true
     quantity: true
-    karma: true
+    karma: false
 
 commands:
   # Whether or not the command list will display the command's shortcut disclaimer.
