@@ -7469,7 +7469,319 @@
 		"price": 1917,
 		"category": "Furniture",
 		"defname": "BoneThrone"
+	},
+	{
+		"abr": "algaelantern",
+		"price": 145,
+		"category": "Furniture",
+		"defname": "RttR_AlgaeLantern"
+	},
+	{
+		"abr": "deadlynadder",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Nadder"
+	},
+	{
+		"abr": "deadlynadderegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggNadderFertilized"
+	},
+	{
+		"abr": "dragonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_RttR_Fury"
+	},
+	{
+		"abr": "flightmare",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Flightmare"
+	},
+	{
+		"abr": "flightmarealgae",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "RttR_FlightmareAlgae"
+	},
+	{
+		"abr": "flightmaredragonscales",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "RttR_FlightmareDragonScales"
+	},
+	{
+		"abr": "flightmareegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggFlightmareFertilized"
+	},
+	{
+		"abr": "fury",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Fury"
+	},
+	{
+		"abr": "furydragonscales",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "RttR_FuryDragonScales"
+	},
+	{
+		"abr": "furyegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggFuryFertilized"
+	},
+	{
+		"abr": "gronckle",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Gronckle"
+	},
+	{
+		"abr": "gronckleegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggGronckleFertilized"
+	},
+	{
+		"abr": "gronckleiron",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "RttR_GronckleIron"
+	},
+	{
+		"abr": "groncklepebbles",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_GronckleDragonScales"
+	},
+	{
+		"abr": "hideouszippleback",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Zippleback"
+	},
+	{
+		"abr": "hideouszipplebackegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggZipplebackFertilized"
+	},
+	{
+		"abr": "hotburple",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Hotburple"
+	},
+	{
+		"abr": "hotburpledragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_HotburpleDragonScales"
+	},
+	{
+		"abr": "hotburpleegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggHotburpleFertilized"
+	},
+	{
+		"abr": "mixeddragonscales",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "RttR_PatchedDragonScales"
+	},
+	{
+		"abr": "monstrousnightmare",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Nightmare"
+	},
+	{
+		"abr": "monstrousnightmaregel",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "RttR_NightmareGel"
+	},
+	{
+		"abr": "monstruousnightmareegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggNightmareFertilized"
+	},
+	{
+		"abr": "nadderdragonscales",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "RttR_NadderDragonScales"
+	},
+	{
+		"abr": "nadderspikes",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "RttR_WoodLog"
+	},
+	{
+		"abr": "nightmaredragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_NightmareDragonScales"
+	},
+	{
+		"abr": "rawfish",
+		"price": 3,
+		"category": "Meat",
+		"defname": "RttR_RawFish"
+	},
+	{
+		"abr": "razorwhip",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Razorwhip"
+	},
+	{
+		"abr": "razorwhipdragonscales",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "RttR_RazorwhipDragonScales"
+	},
+	{
+		"abr": "razorwhipegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggRazorwhipFertilized"
+	},
+	{
+		"abr": "razorwhipspikes",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "RttR_RazorwhipSpikes"
+	},
+	{
+		"abr": "rumblehorn",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "RttR_Rumblehorn"
+	},
+	{
+		"abr": "rumblehorndragonscales",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "RttR_RumblehornDragonScales"
+	},
+	{
+		"abr": "rumblehornegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggRumblehornFertilized"
+	},
+	{
+		"abr": "scauldron",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Scauldron"
+	},
+	{
+		"abr": "scauldrondragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_ScauldronDragonScales"
+	},
+	{
+		"abr": "scauldronegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggScauldronFertilized"
+	},
+	{
+		"abr": "skrill",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_Skrill"
+	},
+	{
+		"abr": "skrilldragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_SkrillDragonScales"
+	},
+	{
+		"abr": "skrillegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggSkrillFertilized"
+	},
+	{
+		"abr": "stormcutter",
+		"price": 1500,
+		"category": "Animals",
+		"defname": "RttR_Stormcutter"
+	},
+	{
+		"abr": "stormcutterdragonscales",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "RttR_StormcutterDragonScales"
+	},
+	{
+		"abr": "stormcutteregg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggStormcutterFertilized"
+	},
+	{
+		"abr": "terribleterror",
+		"price": 250,
+		"category": "Animals",
+		"defname": "RttR_TerribleTerror"
+	},
+	{
+		"abr": "terribleterrordragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_TerribleTerrorDragonScales"
+	},
+	{
+		"abr": "terribleterroregg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggTerribleTerrorFertilized"
+	},
+	{
+		"abr": "triplestryke",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "RttR_TripleStryke"
+	},
+	{
+		"abr": "triplestrykechitin",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "RttR_TripleStrykeDragonScales"
+	},
+	{
+		"abr": "triplestrykeegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "RttR_EggTripleStrykeFertilized"
+	},
+	{
+		"abr": "triplestrykevenom",
+		"price": 25,
+		"category": "Manufactured",
+		"defname": "RttR_TripleStrykeVenom"
+	},
+	{
+		"abr": "zipplebackdragonscales",
+		"price": 4,
+		"category": "Leathers",
+		"defname": "RttR_ZipplebackDragonScales"
 	}
 	],
-	"total": 1245
+	"total": 1297
 }
