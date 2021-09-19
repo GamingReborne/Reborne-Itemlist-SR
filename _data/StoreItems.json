@@ -7781,7 +7781,31 @@
 		"price": 4,
 		"category": "Leathers",
 		"defname": "RttR_ZipplebackDragonScales"
+	},
+	{
+		"abr": "bonewall",
+		"price": 26,
+		"category": "",
+		"defname": "BoneWall"
+	},
+	{
+		"abr": "housekeepercat",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "HousekeeperCat"
+	},
+	{
+		"abr": "housekeepercatfur",
+		"price": 23,
+		"category": "Leathers",
+		"defname": "Leather_HKCat"
+	},
+	{
+		"abr": "housekeepercatwool",
+		"price": 12,
+		"category": "Wools",
+		"defname": "Wool_HKCat"
 	}
 	],
-	"total": 1297
+	"total": 1301
 }
