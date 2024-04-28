@@ -362,7 +362,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -429,12 +429,7 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "immortality",
-		"price": 100000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 87
+	"total": 86
 }
